@@ -15,9 +15,10 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 * Have to start spending more time on solving problems and learning.
 
 ## DATE: 2nd october - Sunday
-
+* solved decrementing triangle pattern.
 
 ### Links:
 
 
 ### Remarks:
+* I am going too slow. Have to dedicate specific time for studying.
