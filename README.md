@@ -18,7 +18,28 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 * solved decrementing triangle pattern.
 
 ### Links:
-
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/patterns/Pattern3.java
 
 ### Remarks:
 * I am going too slow. Have to dedicate specific time for studying.
+
+# DATE: 3rd october - Monday
+* solved remaining pattern questions.
+
+### Links:
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/patterns/Pattern4.java
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/patterns/Pattern5.java
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/patterns/Pattern6.java
+
+### Remarks:
+* Atleast more progress than yesterday but can do even more.
+
+# DATE: 3rd october - Monday
+* started learning basics of recursion. Solved some very basic questions.
+
+### Links:
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/recursion/basics/PrintNTo1Numbers.java
+* https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times
+
+### Remarks:
+* Need to spend more time understanging and visualizing recursion. Its really important.
