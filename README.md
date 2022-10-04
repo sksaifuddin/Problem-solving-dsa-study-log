@@ -34,7 +34,7 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 ### Remarks:
 * Atleast more progress than yesterday but can do even more.
 
-# DATE: 3rd october - Monday
+# DATE: 4th october - Tuesday
 * started learning basics of recursion. Solved some very basic questions.
 
 ### Links:
