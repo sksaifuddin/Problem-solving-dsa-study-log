@@ -43,3 +43,21 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 
 ### Remarks:
 * Need to spend more time understanging and visualizing recursion. Its really important.
+
+# DATE: 5th october - Wednesday
+* solved some more basic problems of recursion
+
+### Links:
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/recursion/basics/Factorial.java
+
+### Remarks:
+* Need to spend more time understanging and visualizing recursion. Its really important.
+
+# DATE: 6th october - Thursday
+* solved some more basic problems of recursion
+
+### Links:
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/recursion/basics/SumOfNNatualNumbers.java
+
+### Remarks:
+* Wasted large amount of time in learning vim and searching for plugins. Need to stop getting distracted and practice DS and algo dedicatedly.
