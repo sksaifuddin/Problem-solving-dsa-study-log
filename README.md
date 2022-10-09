@@ -61,3 +61,18 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 
 ### Remarks:
 * Wasted large amount of time in learning vim and searching for plugins. Need to stop getting distracted and practice DS and algo dedicatedly.
+
+# DATE: 7h october - Friday
+* solved some more basic problems of recursion
+
+### Links:
+* https://github.com/sksaifuddin/ds-and-algo/blob/main/recursion/basics/SumOfNNatualNumbers.java
+
+### Remarks:
+* Wasted large amount of time in learning vim and searching for plugins. Need to stop getting distracted and practice DS and algo dedicatedly.
+
+# DATE: 8 october, 9th , 10 october
+* Finally finished solving basic questions of Recursion. Will start new topic now.
+
+### Remarks:
+* Need to spend more time now to learn DS and algo
