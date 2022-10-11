@@ -76,3 +76,9 @@ Making the Habit of solving a problem daily and learning a new thing is the most
 
 ### Remarks:
 * Need to spend more time now to learn DS and algo
+
+# DATE: 11th October - Tuesday
+* Started learning time and space complexities of algorithms.
+
+### Remarks:
+* Need to spend more time now to learn DS and algo
